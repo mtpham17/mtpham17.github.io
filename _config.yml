@@ -24,9 +24,9 @@ author:
   avatar           : "graduation-headshot.jpeg"
   name             : "Thu Pham"
   pronouns         : "she/her"  
-  bio              : "Research Analyst @ FRBNY. Harvard Stat/CS 2023."
+  bio              : "Research Analyst @ FRBNY"
   location         : "New York"
-  employer         : "Federal Reserve"
+  # employer         : "Federal Reserve"
   uri              : # URL
   email            : "mtpham3@gmail.com" 
 
