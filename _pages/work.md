@@ -11,7 +11,7 @@ redirect_from:
 
 ### Senior Thesis (April 2023)
 
-I wrote a [thesis](https://github.com/mtpham17/thesis) on the role that random effects may play in variable selection. Specifically, I examined this phenomenon in an early childhood case study.
+I wrote a [thesis](/files/PhamThu_Thesis.pdf) ([code](https://github.com/mtpham17/thesis))on the role that random effects may play in variable selection. Specifically, I examined this phenomenon in an early childhood case study. 
 
 ### Collaboration with Early Learning Studies at Harvard (September 2022)
 
