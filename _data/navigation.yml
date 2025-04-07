@@ -6,7 +6,7 @@
 
 main:
   - title: "Work"
-    url: ./pages/work/
+    url: ./_pages/work/
 
   # - title: "Talks"
   #   url: /talks/    
