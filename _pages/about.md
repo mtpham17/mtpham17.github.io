@@ -3,8 +3,8 @@ permalink: /
 title: "About"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - ./about/
+  - ./about.html
 ---
 
 Hello! I am currently a Research Analyst at the Federal Reserve Bank of New York, where I assist with a variety of research and policy projects related to inequality. I am particularly interested in housing insecurity and early childhood outcomes. 

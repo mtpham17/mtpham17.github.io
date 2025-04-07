@@ -6,7 +6,7 @@
 
 main:
   - title: "Work"
-    url: /work/
+    url: ./work/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -21,7 +21,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/tpham_CV.pdf
+    url: ./files/tpham_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
